@@ -48,29 +48,15 @@ p{
 	margin-left: 40px;
 	margin-top: 20px;
 }
-.grid3 p{
-	grid-column-start:2;
-	grid-column-end: 5;
-	grid-row:2;
+.title{
 	display: inline-block;
 	color:white;
 	width:200px;
-	margin-top: 0px;
-	margin-right: 0px;
+	margin-top:40px;
+	margin-right: 180px;
 	margin-bottom: 0px;
 	float:right;
-}
-.grid3 h1{
-	grid-column-start:2;
-	grid-column-end: 5;
-	grid-row:2;
-	display: inline-block;
-	color:white;
-	width:200px;
-	margin-top: 50px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	float:right;
+	text-align: center;
 }
 .grid4{
 	margin-left: 40px;
