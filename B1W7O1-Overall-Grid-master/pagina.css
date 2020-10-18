@@ -89,18 +89,48 @@ p{
 	color: white;
 	margin-top: 20px;
 }
+.contact{
+	margin-left: 20px;
+	grid-column-start: 1;
+	grid-column-end: 4;
+	grid-row: 3;
+}
 li{
 	text-decoration: none;
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 25px;
 	font-color: black;
 	text-align: center;
 }
 ul{
  	margin-top: 45px;
- 	margin-left:200px;
+ 	margin-left:170px;
 }
 a:link{
 	color: black;
-	font-size: 15px;
+	font-size: 18px;
+}
+.contact{
+	text-align: center;
+}
+.grid5 h2{
+text-align: center;
+}
+.grid6 h2{
+text-align: center;
+}
+.grid4 h2{
+text-align: center;
+}
+.gallaryfoto{
+	margin-left: 50px;
+}
+.kleding1{
+	margin-left: 75px;
+}
+.kleding2{
+	margin-left: 80px;
+}
+.kleding3{
+	margin-left: 110px;
 }
